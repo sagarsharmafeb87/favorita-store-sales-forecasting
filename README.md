@@ -16,7 +16,7 @@
 
 ## Why this project
 
-I spent years building production demand & supply planning systems for retail across the GCC (Landmark Group, Alshaya). This project applies that same planning rigor to a public forecasting problem: not "what score can I chase," but "what forecast could I actually *commit inventory* against." That distinction drove every decision here.
+Retail demand planning is where I've spent my career — building production forecasting systems for Alshaya and Landmark Group. This project brings that same rigor to a public forecasting problem: not "what score can I chase," but "what forecast could I actually *commit inventory* against." That distinction drove every decision here.
 
 The dataset: Corporación Favorita, a large Ecuadorian grocery retailer — daily unit sales by store and product family, with promotions, oil prices, holidays, and store metadata. Scored on **RMSLE**.
 
@@ -88,8 +88,8 @@ The gap between the final backtest (0.39) and leaderboard (0.43) is instructive.
 
 ## Tech stack
 
-`Python` · `pandas` · `NumPy` · `LightGBM` · gradient boosting · time-series forecasting · demand forecasting · feature engineering · leakage detection · cross-validation · hierarchical forecasting · RMSLE
+`Python` · `pandas` · `NumPy` · `LightGBM` · `gradient boosting` · `time-series forecasting` · `demand forecasting` · `feature engineering` · `leakage detection` · `cross-validation` · `hierarchical forecasting` · `RMSLE`
 
 ## About
 
-**Sagar Sharma** — AI & Analytics consultant with deep retail demand & supply planning experience (ex-Landmark Group, Alshaya). IBM Data Science Professional Certificate. [LinkedIn](https://www.linkedin.com/in/sagar-sharma-a6211589/) · [Kaggle](https://www.kaggle.com/code/sagarsharmafeb87/favorita-showcase-final)
+**Sagar Sharma** — AI & Analytics consultant with deep retail demand & supply planning experience (ex-Landmark Group, ex-Alshaya Group). IBM Data Science Professional Certificate. [LinkedIn](https://www.linkedin.com/in/sagar-sharma-a6211589/) · [Kaggle](https://www.kaggle.com/code/sagarsharmafeb87/favorita-showcase-final)

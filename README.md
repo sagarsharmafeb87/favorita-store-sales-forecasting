@@ -60,6 +60,11 @@ The April 2016 Ecuador earthquake caused a visible sales surge (ruled out as an 
 
 ---
 
+## Data
+Download from the [Kaggle competition page](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data) and place CSVs in a `Data/` folder to run the notebook locally.
+
+---
+
 ## Diagnostic journey
 
 | Stage | Score |
